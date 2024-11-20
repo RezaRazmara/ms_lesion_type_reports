@@ -12,6 +12,19 @@ The tool adheres to Object-Oriented Programming principles and follows the SOLID
 
 ---
 
+## Project Principles
+This project is structured around:
+- **Object-Oriented Programming (OOP)**: Ensuring a clear and logical organization of code.
+- **SOLID Principles**:
+  - **Single Responsibility**: Each class is responsible for a specific task.
+  - **Open/Closed**: Modules are open for extension but closed for modification.
+  - **Liskov Substitution**: Classes can be substituted without altering functionality.
+  - **Interface Segregation**: Ensures classes have only relevant methods.
+  - **Dependency Inversion**: High-level modules do not depend on low-level modules but on abstractions.
+
+---
+
+
 ## Modules Overview
 
 ### `main.py`
@@ -55,18 +68,6 @@ The tool adheres to Object-Oriented Programming principles and follows the SOLID
 ## Output
 - **Console Report**: Displays lesion counts and types per hemisphere, and a summary of lesion distributions.
 - **Excel Report**: Exports lesion data into an organized Excel file.
-
----
-
-## Project Principles
-This project is structured around:
-- **Object-Oriented Programming (OOP)**: Ensuring a clear and logical organization of code.
-- **SOLID Principles**:
-  - **Single Responsibility**: Each class is responsible for a specific task.
-  - **Open/Closed**: Modules are open for extension but closed for modification.
-  - **Liskov Substitution**: Classes can be substituted without altering functionality.
-  - **Interface Segregation**: Ensures classes have only relevant methods.
-  - **Dependency Inversion**: High-level modules do not depend on low-level modules but on abstractions.
 
 ---
 
