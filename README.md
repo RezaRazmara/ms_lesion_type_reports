@@ -1,4 +1,4 @@
-# analysis MS(multiple sclerosis) Lesions types
+# analysis MS(multiple sclerosis) Lesion types
 
 This project is designed to classify and analyze brain lesions caused by Multiple Sclerosis (MS) using MRI data processed through the Quantitative Susceptibility Mapping (QSM) algorithm. 
 The tool adheres to Object-Oriented Programming principles and follows the SOLID design principles to ensure modularity, scalability, and maintainability.
